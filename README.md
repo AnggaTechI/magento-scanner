@@ -84,7 +84,7 @@ pip install -r requirements.txt
 
 Run the scanner:
 ```bash
-python magento_scanner.py
+python magento-scan.py
 ```
 
 You'll be greeted with an interactive menu:
